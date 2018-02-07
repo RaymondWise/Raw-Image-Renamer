@@ -1,0 +1,9 @@
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\bin\Debug\VBConsoleApp1.exe.config
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\bin\Debug\VBConsoleApp1.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\bin\Debug\VBConsoleApp1.pdb
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\bin\Debug\VBConsoleApp1.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\obj\Debug\VBConsoleApp1.Resources.resources
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\obj\Debug\VBConsoleApp1.vbproj.GenerateResource.Cache
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\obj\Debug\VBConsoleApp1.exe
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\obj\Debug\VBConsoleApp1.xml
+C:\Users\Ray\AppData\Local\Temporary Projects\VBConsoleApp1\obj\Debug\VBConsoleApp1.pdb

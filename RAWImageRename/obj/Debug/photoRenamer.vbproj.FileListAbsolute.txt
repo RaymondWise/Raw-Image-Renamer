@@ -1,0 +1,11 @@
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\bin\Debug\PhotoRenamer.exe.config
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\bin\Debug\PhotoRenamer.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\bin\Debug\PhotoRenamer.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\bin\Debug\PhotoRenamer.xml
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\photoRenamer.vbprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\photoRenamer.vbproj.GenerateResource.Cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\PhotoRenamer.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\PhotoRenamer.xml
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\PhotoRenamer.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\PhotoRenamer.UserInputForm.resources
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\imageprojv2\imageprojv2\obj\Debug\PhotoRenamer.Resources.resources
